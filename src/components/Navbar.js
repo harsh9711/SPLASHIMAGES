@@ -3,7 +3,7 @@ import Switch from "@mui/material/Switch";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import SearchIcon from "@mui/icons-material/Search";
 
-const label = { inputProps: { "aria-label": "Switch demo" } };
+// const label = { inputProps: { "aria-label": "Switch demo" } };
 
 const darkTheme = createTheme({
   palette: {
